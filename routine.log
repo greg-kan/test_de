@@ -1,0 +1,269 @@
+03:25:37,860 root INFO Routine started
+03:25:37,969 root INFO Downloading bg/scenarion_id=1_subtask_id=1.bag to /data1/s3/bg/scenarion_id=1_subtask_id=1.bag
+03:25:37,971 root INFO Downloading bg/scenarion_id=1_subtask_id=2.bag to /data1/s3/bg/scenarion_id=1_subtask_id=2.bag
+03:25:37,972 root INFO Downloading bg/scenarion_id=1_subtask_id=3.bag to /data1/s3/bg/scenarion_id=1_subtask_id=3.bag
+03:39:13,58 root INFO bg/scenarion_id=1_subtask_id=2.bag, Size = 751292733, result: Success
+03:39:13,493 urllib3.connectionpool WARNING Connection pool is full, discarding connection: test-s3.sroboticslab.ru. Connection pool size: 10
+03:40:43,183 urllib3.connectionpool WARNING Connection pool is full, discarding connection: test-s3.sroboticslab.ru. Connection pool size: 10
+03:40:44,340 urllib3.connectionpool WARNING Connection pool is full, discarding connection: test-s3.sroboticslab.ru. Connection pool size: 10
+03:40:51,547 urllib3.connectionpool WARNING Connection pool is full, discarding connection: test-s3.sroboticslab.ru. Connection pool size: 10
+03:41:12,9 urllib3.connectionpool WARNING Connection pool is full, discarding connection: test-s3.sroboticslab.ru. Connection pool size: 10
+03:41:14,691 urllib3.connectionpool WARNING Connection pool is full, discarding connection: test-s3.sroboticslab.ru. Connection pool size: 10
+03:41:41,827 urllib3.connectionpool WARNING Connection pool is full, discarding connection: test-s3.sroboticslab.ru. Connection pool size: 10
+03:42:18,582 urllib3.connectionpool WARNING Connection pool is full, discarding connection: test-s3.sroboticslab.ru. Connection pool size: 10
+03:42:22,416 urllib3.connectionpool WARNING Connection pool is full, discarding connection: test-s3.sroboticslab.ru. Connection pool size: 10
+03:42:47,889 urllib3.connectionpool WARNING Connection pool is full, discarding connection: test-s3.sroboticslab.ru. Connection pool size: 10
+03:42:49,150 root INFO bg/scenarion_id=1_subtask_id=3.bag, Size = 693850835, result: Success
+03:42:52,575 urllib3.connectionpool WARNING Connection pool is full, discarding connection: test-s3.sroboticslab.ru. Connection pool size: 10
+03:48:40,122 urllib3.connectionpool WARNING Connection pool is full, discarding connection: test-s3.sroboticslab.ru. Connection pool size: 10
+03:48:46,175 urllib3.connectionpool WARNING Connection pool is full, discarding connection: test-s3.sroboticslab.ru. Connection pool size: 10
+03:48:56,572 urllib3.connectionpool WARNING Connection pool is full, discarding connection: test-s3.sroboticslab.ru. Connection pool size: 10
+03:49:07,364 urllib3.connectionpool WARNING Connection pool is full, discarding connection: test-s3.sroboticslab.ru. Connection pool size: 10
+03:49:08,716 urllib3.connectionpool WARNING Connection pool is full, discarding connection: test-s3.sroboticslab.ru. Connection pool size: 10
+03:49:13,456 urllib3.connectionpool WARNING Connection pool is full, discarding connection: test-s3.sroboticslab.ru. Connection pool size: 10
+03:49:16,57 urllib3.connectionpool WARNING Connection pool is full, discarding connection: test-s3.sroboticslab.ru. Connection pool size: 10
+03:49:16,678 urllib3.connectionpool WARNING Connection pool is full, discarding connection: test-s3.sroboticslab.ru. Connection pool size: 10
+03:49:20,398 urllib3.connectionpool WARNING Connection pool is full, discarding connection: test-s3.sroboticslab.ru. Connection pool size: 10
+03:49:20,399 root INFO bg/scenarion_id=1_subtask_id=1.bag, Size = 1405818434, result: Success
+03:49:20,400 root INFO Processing bag files started with: Local path to files=/data1/s3/bg/, Topics=['/realsense_gripper/aligned_depth_to_color/image_raw', '/realsense_gripper/color/image_raw/compressed'], Start time=2023-08-22 18:33:48, End time=2023-08-22 18:33:52
+03:49:20,401 root INFO Processing file: /data1/s3/bg/scenarion_id=1_subtask_id=1.bag
+03:49:20,502 root INFO Written file: 2023-08-22_18-33-48-8424368(scenarion_id=1_subtask_id=1)
+03:49:20,535 root INFO Written file: 2023-08-22_18-33-48-50511585(scenarion_id=1_subtask_id=1)
+03:49:20,549 root INFO Written file: 2023-08-22_18-33-48-84267207(scenarion_id=1_subtask_id=1)
+03:49:20,580 root INFO Written file: 2023-08-22_18-33-48-99834505(scenarion_id=1_subtask_id=1)
+03:49:20,594 root INFO Written file: 2023-08-22_18-33-48-132552965(scenarion_id=1_subtask_id=1)
+03:49:20,623 root INFO Written file: 2023-08-22_18-33-48-166162618(scenarion_id=1_subtask_id=1)
+03:49:20,653 root INFO Written file: 2023-08-22_18-33-48-195112151(scenarion_id=1_subtask_id=1)
+03:49:20,683 root INFO Written file: 2023-08-22_18-33-48-276862116(scenarion_id=1_subtask_id=1)
+03:49:20,712 root INFO Written file: 2023-08-22_18-33-48-326475621(scenarion_id=1_subtask_id=1)
+03:49:20,726 root INFO Written file: 2023-08-22_18-33-48-450044089(scenarion_id=1_subtask_id=1)
+03:49:20,755 root INFO Written file: 2023-08-22_18-33-48-480184184(scenarion_id=1_subtask_id=1)
+03:49:20,770 root INFO Written file: 2023-08-22_18-33-48-509114870(scenarion_id=1_subtask_id=1)
+03:49:20,800 root INFO Written file: 2023-08-22_18-33-48-522628461(scenarion_id=1_subtask_id=1)
+03:49:20,814 root INFO Written file: 2023-08-22_18-33-48-561689765(scenarion_id=1_subtask_id=1)
+03:49:20,843 root INFO Written file: 2023-08-22_18-33-48-579080917(scenarion_id=1_subtask_id=1)
+03:49:20,856 root INFO Written file: 2023-08-22_18-33-48-619667923(scenarion_id=1_subtask_id=1)
+03:49:20,885 root INFO Written file: 2023-08-22_18-33-48-636641104(scenarion_id=1_subtask_id=1)
+03:49:20,899 root INFO Written file: 2023-08-22_18-33-48-705212500(scenarion_id=1_subtask_id=1)
+03:49:20,930 root INFO Written file: 2023-08-22_18-33-48-723774265(scenarion_id=1_subtask_id=1)
+03:49:20,946 root INFO Written file: 2023-08-22_18-33-48-757662506(scenarion_id=1_subtask_id=1)
+03:49:20,974 root INFO Written file: 2023-08-22_18-33-48-784966419(scenarion_id=1_subtask_id=1)
+03:49:20,986 root INFO Written file: 2023-08-22_18-33-48-822537290(scenarion_id=1_subtask_id=1)
+03:49:21,15 root INFO Written file: 2023-08-22_18-33-48-838077884(scenarion_id=1_subtask_id=1)
+03:49:21,28 root INFO Written file: 2023-08-22_18-33-48-885835630(scenarion_id=1_subtask_id=1)
+03:49:21,56 root INFO Written file: 2023-08-22_18-33-48-895496983(scenarion_id=1_subtask_id=1)
+03:49:21,68 root INFO Written file: 2023-08-22_18-33-48-959783765(scenarion_id=1_subtask_id=1)
+03:49:21,96 root INFO Written file: 2023-08-22_18-33-48-984819978(scenarion_id=1_subtask_id=1)
+03:49:21,108 root INFO Written file: 2023-08-22_18-33-49-38173692(scenarion_id=1_subtask_id=1)
+03:49:21,138 root INFO Written file: 2023-08-22_18-33-49-51780859(scenarion_id=1_subtask_id=1)
+03:49:21,153 root INFO Written file: 2023-08-22_18-33-49-107226119(scenarion_id=1_subtask_id=1)
+03:49:21,182 root INFO Written file: 2023-08-22_18-33-49-133636360(scenarion_id=1_subtask_id=1)
+03:49:21,195 root INFO Written file: 2023-08-22_18-33-49-164232302(scenarion_id=1_subtask_id=1)
+03:49:21,223 root INFO Written file: 2023-08-22_18-33-49-187443596(scenarion_id=1_subtask_id=1)
+03:49:21,234 root INFO Written file: 2023-08-22_18-33-49-231581330(scenarion_id=1_subtask_id=1)
+03:49:21,262 root INFO Written file: 2023-08-22_18-33-49-256030716(scenarion_id=1_subtask_id=1)
+03:49:21,275 root INFO Written file: 2023-08-22_18-33-49-293378198(scenarion_id=1_subtask_id=1)
+03:49:21,303 root INFO Written file: 2023-08-22_18-33-49-301512375(scenarion_id=1_subtask_id=1)
+03:49:21,315 root INFO Written file: 2023-08-22_18-33-49-357592942(scenarion_id=1_subtask_id=1)
+03:49:21,346 root INFO Written file: 2023-08-22_18-33-49-388640061(scenarion_id=1_subtask_id=1)
+03:49:21,358 root INFO Written file: 2023-08-22_18-33-49-423106060(scenarion_id=1_subtask_id=1)
+03:49:21,386 root INFO Written file: 2023-08-22_18-33-49-437303020(scenarion_id=1_subtask_id=1)
+03:49:21,398 root INFO Written file: 2023-08-22_18-33-49-494698181(scenarion_id=1_subtask_id=1)
+03:49:21,425 root INFO Written file: 2023-08-22_18-33-49-527376912(scenarion_id=1_subtask_id=1)
+03:49:21,437 root INFO Written file: 2023-08-22_18-33-49-560843413(scenarion_id=1_subtask_id=1)
+03:49:21,464 root INFO Written file: 2023-08-22_18-33-49-599644123(scenarion_id=1_subtask_id=1)
+03:49:21,475 root INFO Written file: 2023-08-22_18-33-49-630532842(scenarion_id=1_subtask_id=1)
+03:49:21,503 root INFO Written file: 2023-08-22_18-33-49-661689119(scenarion_id=1_subtask_id=1)
+03:49:21,518 root INFO Written file: 2023-08-22_18-33-49-691318108(scenarion_id=1_subtask_id=1)
+03:49:21,546 root INFO Written file: 2023-08-22_18-33-49-705189789(scenarion_id=1_subtask_id=1)
+03:49:21,558 root INFO Written file: 2023-08-22_18-33-49-770219159(scenarion_id=1_subtask_id=1)
+03:49:21,585 root INFO Written file: 2023-08-22_18-33-49-779445510(scenarion_id=1_subtask_id=1)
+03:49:21,596 root INFO Written file: 2023-08-22_18-33-49-819267766(scenarion_id=1_subtask_id=1)
+03:49:21,623 root INFO Written file: 2023-08-22_18-33-49-832934736(scenarion_id=1_subtask_id=1)
+03:49:21,634 root INFO Written file: 2023-08-22_18-33-49-896959837(scenarion_id=1_subtask_id=1)
+03:49:21,661 root INFO Written file: 2023-08-22_18-33-49-906387749(scenarion_id=1_subtask_id=1)
+03:49:21,671 root INFO Written file: 2023-08-22_18-33-49-962255514(scenarion_id=1_subtask_id=1)
+03:49:21,698 root INFO Written file: 2023-08-22_18-33-49-981970675(scenarion_id=1_subtask_id=1)
+03:49:21,709 root INFO Written file: 2023-08-22_18-33-50-23164390(scenarion_id=1_subtask_id=1)
+03:49:21,739 root INFO Written file: 2023-08-22_18-33-50-48116056(scenarion_id=1_subtask_id=1)
+03:49:21,750 root INFO Written file: 2023-08-22_18-33-50-104196223(scenarion_id=1_subtask_id=1)
+03:49:21,777 root INFO Written file: 2023-08-22_18-33-50-113307227(scenarion_id=1_subtask_id=1)
+03:49:21,787 root INFO Written file: 2023-08-22_18-33-50-154590487(scenarion_id=1_subtask_id=1)
+03:49:21,814 root INFO Written file: 2023-08-22_18-33-50-177166668(scenarion_id=1_subtask_id=1)
+03:49:21,823 root INFO Written file: 2023-08-22_18-33-50-223204665(scenarion_id=1_subtask_id=1)
+03:49:21,850 root INFO Written file: 2023-08-22_18-33-50-240828972(scenarion_id=1_subtask_id=1)
+03:49:21,859 root INFO Written file: 2023-08-22_18-33-50-295431517(scenarion_id=1_subtask_id=1)
+03:49:21,885 root INFO Written file: 2023-08-22_18-33-50-311045544(scenarion_id=1_subtask_id=1)
+03:49:21,895 root INFO Written file: 2023-08-22_18-33-50-359333574(scenarion_id=1_subtask_id=1)
+03:49:21,924 root INFO Written file: 2023-08-22_18-33-50-373622466(scenarion_id=1_subtask_id=1)
+03:49:21,934 root INFO Written file: 2023-08-22_18-33-50-444139352(scenarion_id=1_subtask_id=1)
+03:49:21,960 root INFO Written file: 2023-08-22_18-33-50-471895057(scenarion_id=1_subtask_id=1)
+03:49:21,970 root INFO Written file: 2023-08-22_18-33-50-510376497(scenarion_id=1_subtask_id=1)
+03:49:21,996 root INFO Written file: 2023-08-22_18-33-50-525428531(scenarion_id=1_subtask_id=1)
+03:49:22,6 root INFO Written file: 2023-08-22_18-33-50-557323644(scenarion_id=1_subtask_id=1)
+03:49:22,32 root INFO Written file: 2023-08-22_18-33-50-575189630(scenarion_id=1_subtask_id=1)
+03:49:22,42 root INFO Written file: 2023-08-22_18-33-50-635583610(scenarion_id=1_subtask_id=1)
+03:49:22,68 root INFO Written file: 2023-08-22_18-33-50-675960489(scenarion_id=1_subtask_id=1)
+03:49:22,77 root INFO Written file: 2023-08-22_18-33-50-768464930(scenarion_id=1_subtask_id=1)
+03:49:22,103 root INFO Written file: 2023-08-22_18-33-50-787095351(scenarion_id=1_subtask_id=1)
+03:49:22,114 root INFO Written file: 2023-08-22_18-33-50-832446031(scenarion_id=1_subtask_id=1)
+03:49:22,143 root INFO Written file: 2023-08-22_18-33-50-855624915(scenarion_id=1_subtask_id=1)
+03:49:22,153 root INFO Written file: 2023-08-22_18-33-50-903995793(scenarion_id=1_subtask_id=1)
+03:49:22,180 root INFO Written file: 2023-08-22_18-33-50-919544462(scenarion_id=1_subtask_id=1)
+03:49:22,189 root INFO Written file: 2023-08-22_18-33-50-953802591(scenarion_id=1_subtask_id=1)
+03:49:22,215 root INFO Written file: 2023-08-22_18-33-50-985579497(scenarion_id=1_subtask_id=1)
+03:49:22,224 root INFO Written file: 2023-08-22_18-33-51-12105243(scenarion_id=1_subtask_id=1)
+03:49:22,250 root INFO Written file: 2023-08-22_18-33-51-25212328(scenarion_id=1_subtask_id=1)
+03:49:22,259 root INFO Written file: 2023-08-22_18-33-51-49665451(scenarion_id=1_subtask_id=1)
+03:49:22,285 root INFO Written file: 2023-08-22_18-33-51-85665892(scenarion_id=1_subtask_id=1)
+03:49:22,294 root INFO Written file: 2023-08-22_18-33-51-116649278(scenarion_id=1_subtask_id=1)
+03:49:22,323 root INFO Written file: 2023-08-22_18-33-51-142437376(scenarion_id=1_subtask_id=1)
+03:49:22,331 root INFO Written file: 2023-08-22_18-33-51-174269298(scenarion_id=1_subtask_id=1)
+03:49:22,357 root INFO Written file: 2023-08-22_18-33-51-202248007(scenarion_id=1_subtask_id=1)
+03:49:22,365 root INFO Written file: 2023-08-22_18-33-51-221094618(scenarion_id=1_subtask_id=1)
+03:49:22,392 root INFO Written file: 2023-08-22_18-33-51-235393362(scenarion_id=1_subtask_id=1)
+03:49:22,401 root INFO Written file: 2023-08-22_18-33-51-302400709(scenarion_id=1_subtask_id=1)
+03:49:22,428 root INFO Written file: 2023-08-22_18-33-51-312158538(scenarion_id=1_subtask_id=1)
+03:49:22,436 root INFO Written file: 2023-08-22_18-33-51-352266991(scenarion_id=1_subtask_id=1)
+03:49:22,463 root INFO Written file: 2023-08-22_18-33-51-366047479(scenarion_id=1_subtask_id=1)
+03:49:22,472 root INFO Written file: 2023-08-22_18-33-51-414257469(scenarion_id=1_subtask_id=1)
+03:49:22,499 root INFO Written file: 2023-08-22_18-33-51-431117169(scenarion_id=1_subtask_id=1)
+03:49:22,506 root INFO Written file: 2023-08-22_18-33-51-492539014(scenarion_id=1_subtask_id=1)
+03:49:22,533 root INFO Written file: 2023-08-22_18-33-51-506749187(scenarion_id=1_subtask_id=1)
+03:49:22,541 root INFO Written file: 2023-08-22_18-33-51-559784242(scenarion_id=1_subtask_id=1)
+03:49:22,568 root INFO Written file: 2023-08-22_18-33-51-575044482(scenarion_id=1_subtask_id=1)
+03:49:22,576 root INFO Written file: 2023-08-22_18-33-51-620601240(scenarion_id=1_subtask_id=1)
+03:49:22,603 root INFO Written file: 2023-08-22_18-33-51-635764169(scenarion_id=1_subtask_id=1)
+03:49:22,612 root INFO Written file: 2023-08-22_18-33-51-697979691(scenarion_id=1_subtask_id=1)
+03:49:22,639 root INFO Written file: 2023-08-22_18-33-51-708832870(scenarion_id=1_subtask_id=1)
+03:49:22,648 root INFO Written file: 2023-08-22_18-33-51-759829628(scenarion_id=1_subtask_id=1)
+03:49:22,674 root INFO Written file: 2023-08-22_18-33-51-772032406(scenarion_id=1_subtask_id=1)
+03:49:22,683 root INFO Written file: 2023-08-22_18-33-51-821664478(scenarion_id=1_subtask_id=1)
+03:49:22,710 root INFO Written file: 2023-08-22_18-33-51-836497585(scenarion_id=1_subtask_id=1)
+03:49:22,719 root INFO Written file: 2023-08-22_18-33-51-890048600(scenarion_id=1_subtask_id=1)
+03:49:22,747 root INFO Written file: 2023-08-22_18-33-51-907787253(scenarion_id=1_subtask_id=1)
+03:49:22,755 root INFO Written file: 2023-08-22_18-33-51-963400831(scenarion_id=1_subtask_id=1)
+03:49:22,782 root INFO Written file: 2023-08-22_18-33-51-982113347(scenarion_id=1_subtask_id=1)
+03:49:22,782 root INFO Processing file: /data1/s3/bg/scenarion_id=1_subtask_id=2.bag
+03:49:22,818 root INFO Processing file: /data1/s3/bg/scenarion_id=1_subtask_id=3.bag
+03:49:22,851 root INFO Storing files to s3 store started
+03:49:23,443 root INFO File 2023-08-22_18-33-48-522628461(scenarion_id=1_subtask_id=1).png stored
+03:49:23,598 root INFO File 2023-08-22_18-33-48-50511585(scenarion_id=1_subtask_id=1).png stored
+03:49:23,709 root INFO File 2023-08-22_18-33-51-202248007(scenarion_id=1_subtask_id=1).png stored
+03:49:23,844 root INFO File 2023-08-22_18-33-48-480184184(scenarion_id=1_subtask_id=1).png stored
+03:49:23,990 root INFO File 2023-08-22_18-33-49-437303020(scenarion_id=1_subtask_id=1).png stored
+03:49:24,115 root INFO File 2023-08-22_18-33-51-142437376(scenarion_id=1_subtask_id=1).png stored
+03:49:24,263 root INFO File 2023-08-22_18-33-51-982113347(scenarion_id=1_subtask_id=1).png stored
+03:49:24,399 root INFO File 2023-08-22_18-33-51-635764169(scenarion_id=1_subtask_id=1).png stored
+03:49:24,519 root INFO File 2023-08-22_18-33-51-575044482(scenarion_id=1_subtask_id=1).png stored
+03:49:24,640 root INFO File 2023-08-22_18-33-51-312158538(scenarion_id=1_subtask_id=1).png stored
+03:49:24,764 root INFO File 2023-08-22_18-33-49-133636360(scenarion_id=1_subtask_id=1).png stored
+03:49:24,890 root INFO File 2023-08-22_18-33-49-256030716(scenarion_id=1_subtask_id=1).png stored
+03:49:25,11 root INFO File 2023-08-22_18-33-50-177166668(scenarion_id=1_subtask_id=1).png stored
+03:49:25,124 root INFO File 2023-08-22_18-33-51-431117169(scenarion_id=1_subtask_id=1).png stored
+03:49:25,246 root INFO File 2023-08-22_18-33-50-675960489(scenarion_id=1_subtask_id=1).png stored
+03:49:25,361 root INFO File 2023-08-22_18-33-51-506749187(scenarion_id=1_subtask_id=1).png stored
+03:49:25,478 root INFO File 2023-08-22_18-33-51-366047479(scenarion_id=1_subtask_id=1).png stored
+03:49:25,598 root INFO File 2023-08-22_18-33-49-599644123(scenarion_id=1_subtask_id=1).png stored
+03:49:25,717 root INFO File 2023-08-22_18-33-50-240828972(scenarion_id=1_subtask_id=1).png stored
+03:49:25,837 root INFO File 2023-08-22_18-33-50-471895057(scenarion_id=1_subtask_id=1).png stored
+03:49:25,954 root INFO File 2023-08-22_18-33-49-705189789(scenarion_id=1_subtask_id=1).png stored
+03:49:26,77 root INFO File 2023-08-22_18-33-49-906387749(scenarion_id=1_subtask_id=1).png stored
+03:49:26,209 root INFO File 2023-08-22_18-33-48-838077884(scenarion_id=1_subtask_id=1).png stored
+03:49:26,338 root INFO File 2023-08-22_18-33-48-895496983(scenarion_id=1_subtask_id=1).png stored
+03:49:26,463 root INFO File 2023-08-22_18-33-49-51780859(scenarion_id=1_subtask_id=1).png stored
+03:49:26,575 root INFO File 2023-08-22_18-33-50-373622466(scenarion_id=1_subtask_id=1).png stored
+03:49:26,694 root INFO File 2023-08-22_18-33-50-48116056(scenarion_id=1_subtask_id=1).png stored
+03:49:26,809 root INFO File 2023-08-22_18-33-51-25212328(scenarion_id=1_subtask_id=1).png stored
+03:49:26,929 root INFO File 2023-08-22_18-33-50-787095351(scenarion_id=1_subtask_id=1).png stored
+03:49:27,84 root INFO File 2023-08-22_18-33-48-99834505(scenarion_id=1_subtask_id=1).png stored
+03:49:27,196 root INFO File 2023-08-22_18-33-50-575189630(scenarion_id=1_subtask_id=1).png stored
+03:49:27,338 root INFO File 2023-08-22_18-33-48-276862116(scenarion_id=1_subtask_id=1).png stored
+03:49:27,482 root INFO File 2023-08-22_18-33-49-301512375(scenarion_id=1_subtask_id=1).png stored
+03:49:27,602 root INFO File 2023-08-22_18-33-50-855624915(scenarion_id=1_subtask_id=1).png stored
+03:49:27,741 root INFO File 2023-08-22_18-33-48-784966419(scenarion_id=1_subtask_id=1).png stored
+03:49:27,866 root INFO File 2023-08-22_18-33-49-527376912(scenarion_id=1_subtask_id=1).png stored
+03:49:27,990 root INFO File 2023-08-22_18-33-49-187443596(scenarion_id=1_subtask_id=1).png stored
+03:49:28,104 root INFO File 2023-08-22_18-33-50-525428531(scenarion_id=1_subtask_id=1).png stored
+03:49:28,223 root INFO File 2023-08-22_18-33-51-235393362(scenarion_id=1_subtask_id=1).png stored
+03:49:28,340 root INFO File 2023-08-22_18-33-49-832934736(scenarion_id=1_subtask_id=1).png stored
+03:49:28,468 root INFO File 2023-08-22_18-33-51-708832870(scenarion_id=1_subtask_id=1).png stored
+03:49:28,599 root INFO File 2023-08-22_18-33-48-723774265(scenarion_id=1_subtask_id=1).png stored
+03:49:28,737 root INFO File 2023-08-22_18-33-48-326475621(scenarion_id=1_subtask_id=1).png stored
+03:49:28,875 root INFO File 2023-08-22_18-33-48-636641104(scenarion_id=1_subtask_id=1).png stored
+03:49:29,15 root INFO File 2023-08-22_18-33-48-195112151(scenarion_id=1_subtask_id=1).png stored
+03:49:29,139 root INFO File 2023-08-22_18-33-51-772032406(scenarion_id=1_subtask_id=1).png stored
+03:49:29,279 root INFO File 2023-08-22_18-33-48-984819978(scenarion_id=1_subtask_id=1).png stored
+03:49:29,402 root INFO File 2023-08-22_18-33-50-113307227(scenarion_id=1_subtask_id=1).png stored
+03:49:29,543 root INFO File 2023-08-22_18-33-48-579080917(scenarion_id=1_subtask_id=1).png stored
+03:49:29,664 root INFO File 2023-08-22_18-33-51-836497585(scenarion_id=1_subtask_id=1).png stored
+03:49:29,781 root INFO File 2023-08-22_18-33-51-85665892(scenarion_id=1_subtask_id=1).png stored
+03:49:29,901 root INFO File 2023-08-22_18-33-49-779445510(scenarion_id=1_subtask_id=1).png stored
+03:49:30,18 root INFO File 2023-08-22_18-33-51-907787253(scenarion_id=1_subtask_id=1).png stored
+03:49:30,132 root INFO File 2023-08-22_18-33-50-919544462(scenarion_id=1_subtask_id=1).png stored
+03:49:30,248 root INFO File 2023-08-22_18-33-50-311045544(scenarion_id=1_subtask_id=1).png stored
+03:49:30,378 root INFO File 2023-08-22_18-33-49-661689119(scenarion_id=1_subtask_id=1).png stored
+03:49:30,523 root INFO File 2023-08-22_18-33-48-166162618(scenarion_id=1_subtask_id=1).png stored
+03:49:30,648 root INFO File 2023-08-22_18-33-50-985579497(scenarion_id=1_subtask_id=1).png stored
+03:49:30,771 root INFO File 2023-08-22_18-33-49-388640061(scenarion_id=1_subtask_id=1).png stored
+03:49:30,892 root INFO File 2023-08-22_18-33-49-981970675(scenarion_id=1_subtask_id=1).png stored
+03:49:30,974 root INFO File 2023-08-22_18-33-49-691318108(scenarion_id=1_subtask_id=1).png stored
+03:49:31,37 root INFO File 2023-08-22_18-33-51-620601240(scenarion_id=1_subtask_id=1).png stored
+03:49:31,114 root INFO File 2023-08-22_18-33-50-635583610(scenarion_id=1_subtask_id=1).png stored
+03:49:31,190 root INFO File 2023-08-22_18-33-50-444139352(scenarion_id=1_subtask_id=1).png stored
+03:49:31,267 root INFO File 2023-08-22_18-33-50-223204665(scenarion_id=1_subtask_id=1).png stored
+03:49:31,357 root INFO File 2023-08-22_18-33-49-231581330(scenarion_id=1_subtask_id=1).png stored
+03:49:31,429 root INFO File 2023-08-22_18-33-50-154590487(scenarion_id=1_subtask_id=1).png stored
+03:49:31,529 root INFO File 2023-08-22_18-33-48-450044089(scenarion_id=1_subtask_id=1).png stored
+03:49:31,613 root INFO File 2023-08-22_18-33-49-560843413(scenarion_id=1_subtask_id=1).png stored
+03:49:31,703 root INFO File 2023-08-22_18-33-48-885835630(scenarion_id=1_subtask_id=1).png stored
+03:49:31,777 root INFO File 2023-08-22_18-33-51-221094618(scenarion_id=1_subtask_id=1).png stored
+03:49:31,874 root INFO File 2023-08-22_18-33-48-822537290(scenarion_id=1_subtask_id=1).png stored
+03:49:31,985 root INFO File 2023-08-22_18-33-48-84267207(scenarion_id=1_subtask_id=1).png stored
+03:49:32,68 root INFO File 2023-08-22_18-33-50-903995793(scenarion_id=1_subtask_id=1).png stored
+03:49:32,145 root INFO File 2023-08-22_18-33-49-962255514(scenarion_id=1_subtask_id=1).png stored
+03:49:32,229 root INFO File 2023-08-22_18-33-49-423106060(scenarion_id=1_subtask_id=1).png stored
+03:49:32,318 root INFO File 2023-08-22_18-33-49-164232302(scenarion_id=1_subtask_id=1).png stored
+03:49:32,388 root INFO File 2023-08-22_18-33-51-963400831(scenarion_id=1_subtask_id=1).png stored
+03:49:32,454 root INFO File 2023-08-22_18-33-51-12105243(scenarion_id=1_subtask_id=1).png stored
+03:49:32,529 root INFO File 2023-08-22_18-33-49-819267766(scenarion_id=1_subtask_id=1).png stored
+03:49:32,603 root INFO File 2023-08-22_18-33-49-896959837(scenarion_id=1_subtask_id=1).png stored
+03:49:32,668 root INFO File 2023-08-22_18-33-51-492539014(scenarion_id=1_subtask_id=1).png stored
+03:49:32,776 root INFO File 2023-08-22_18-33-48-509114870(scenarion_id=1_subtask_id=1).png stored
+03:49:32,852 root INFO File 2023-08-22_18-33-50-832446031(scenarion_id=1_subtask_id=1).png stored
+03:49:32,931 root INFO File 2023-08-22_18-33-50-359333574(scenarion_id=1_subtask_id=1).png stored
+03:49:33,6 root INFO File 2023-08-22_18-33-50-510376497(scenarion_id=1_subtask_id=1).png stored
+03:49:33,83 root INFO File 2023-08-22_18-33-50-23164390(scenarion_id=1_subtask_id=1).png stored
+03:49:33,148 root INFO File 2023-08-22_18-33-51-174269298(scenarion_id=1_subtask_id=1).png stored
+03:49:33,247 root INFO File 2023-08-22_18-33-48-561689765(scenarion_id=1_subtask_id=1).png stored
+03:49:33,313 root INFO File 2023-08-22_18-33-51-302400709(scenarion_id=1_subtask_id=1).png stored
+03:49:33,403 root INFO File 2023-08-22_18-33-50-557323644(scenarion_id=1_subtask_id=1).png stored
+03:49:33,467 root INFO File 2023-08-22_18-33-51-759829628(scenarion_id=1_subtask_id=1).png stored
+03:49:33,560 root INFO File 2023-08-22_18-33-51-49665451(scenarion_id=1_subtask_id=1).png stored
+03:49:33,627 root INFO File 2023-08-22_18-33-50-953802591(scenarion_id=1_subtask_id=1).png stored
+03:49:33,718 root INFO File 2023-08-22_18-33-48-132552965(scenarion_id=1_subtask_id=1).png stored
+03:49:33,783 root INFO File 2023-08-22_18-33-51-352266991(scenarion_id=1_subtask_id=1).png stored
+03:49:33,874 root INFO File 2023-08-22_18-33-48-757662506(scenarion_id=1_subtask_id=1).png stored
+03:49:33,951 root INFO File 2023-08-22_18-33-50-295431517(scenarion_id=1_subtask_id=1).png stored
+03:49:34,33 root INFO File 2023-08-22_18-33-49-293378198(scenarion_id=1_subtask_id=1).png stored
+03:49:34,136 root INFO File 2023-08-22_18-33-48-619667923(scenarion_id=1_subtask_id=1).png stored
+03:49:34,225 root INFO File 2023-08-22_18-33-48-959783765(scenarion_id=1_subtask_id=1).png stored
+03:49:34,301 root INFO File 2023-08-22_18-33-50-104196223(scenarion_id=1_subtask_id=1).png stored
+03:49:34,383 root INFO File 2023-08-22_18-33-49-630532842(scenarion_id=1_subtask_id=1).png stored
+03:49:34,481 root INFO File 2023-08-22_18-33-49-107226119(scenarion_id=1_subtask_id=1).png stored
+03:49:34,542 root INFO File 2023-08-22_18-33-51-414257469(scenarion_id=1_subtask_id=1).png stored
+03:49:34,607 root INFO File 2023-08-22_18-33-51-116649278(scenarion_id=1_subtask_id=1).png stored
+03:49:34,683 root INFO File 2023-08-22_18-33-51-697979691(scenarion_id=1_subtask_id=1).png stored
+03:49:34,766 root INFO File 2023-08-22_18-33-49-38173692(scenarion_id=1_subtask_id=1).png stored
+03:49:34,841 root INFO File 2023-08-22_18-33-49-770219159(scenarion_id=1_subtask_id=1).png stored
+03:49:34,908 root INFO File 2023-08-22_18-33-50-768464930(scenarion_id=1_subtask_id=1).png stored
+03:49:34,991 root INFO File 2023-08-22_18-33-49-494698181(scenarion_id=1_subtask_id=1).png stored
+03:49:35,84 root INFO File 2023-08-22_18-33-49-357592942(scenarion_id=1_subtask_id=1).png stored
+03:49:35,144 root INFO File 2023-08-22_18-33-51-559784242(scenarion_id=1_subtask_id=1).png stored
+03:49:35,232 root INFO File 2023-08-22_18-33-48-705212500(scenarion_id=1_subtask_id=1).png stored
+03:49:35,292 root INFO File 2023-08-22_18-33-51-890048600(scenarion_id=1_subtask_id=1).png stored
+03:49:35,403 root INFO File 2023-08-22_18-33-48-8424368(scenarion_id=1_subtask_id=1).png stored
+03:49:35,467 root INFO File 2023-08-22_18-33-51-821664478(scenarion_id=1_subtask_id=1).png stored
+03:49:35,467 root INFO Stored 117 files
+03:49:35,468 root INFO Routine finished
+03:49:35,469 rospy.core INFO signal_shutdown [atexit]
